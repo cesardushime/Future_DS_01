@@ -17,18 +17,9 @@ A machine learning model was built using Jupyter Notebook to predict loan applic
 
 ## Tools and Technologies:
 
-Python
-Jupyter Notebook
-Power BI
-Machine Learning
-Data Cleaning
-Data Visualization
-Internship Program:
+Python (Pandas, Numpy, Matplotlib, Seaborn,..etc), Jupyter Notebook, etc. 
 
-Future Interns Data Science & Analytics Internship Program
-Feel free to:
 
-Explore the code and project files.
-Provide feedback or suggestions for improvement.
+Explore the code and project files, and provide feedback or suggestions for improvement.
 Connect with me on LinkedIn: [https://www.linkedin.com/in/cesar-dushimimana-731345236/]
 #futureinterns #datascience #analytics #internship
