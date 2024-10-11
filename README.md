@@ -8,11 +8,11 @@ This repository contains projects completed during my Data Science & Analytics I
 
 Projects:
 
-###### 2. Titanic Dataset EDA:
+###### 1. Titanic Dataset EDA:
 Exploratory data analysis (EDA) on the Titanic dataset from Kaggle, including data cleaning, visualization, and pattern identification.
-###### 3. IPL Data Analysis with Power BI: 
+###### 2. IPL Data Analysis with Power BI: 
 Analysis of IPL data using Power BI to create insightful visualizations, exploring metrics like runs scored, matches won, and player ages.
-###### 4. Loan Approval Prediction Model:
+###### 3. Loan Approval Prediction Model:
 A machine learning model was built using Jupyter Notebook to predict loan application outcomes based on factors, such as income, loan amount, and credit history.
 
 ##### Tools and Technologies:
