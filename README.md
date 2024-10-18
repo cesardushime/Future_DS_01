@@ -1,5 +1,5 @@
 ### Future_DS_01
-Data Science &amp; Analytics Internship Projects  This repository is my first project from my internship at Future Interns, where I utilized the Titanic Dataset EDA: Data cleaning, visualization, and pattern identification. 
+This repository is my first project from my internship at Future Interns, where I utilized the Titanic Dataset EDA: Data cleaning, visualization, and pattern identification. 
 
 ### **Titanic Survival Rate Analysis**
 
